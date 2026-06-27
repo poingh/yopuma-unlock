@@ -7,8 +7,7 @@
 ## 安装
 1. 安装 Tampermonkey 浏览器插件
 2. 点击安装：
-   - [GitHub Raw 安装](https://raw.githubusercontent.com/poinghy/yopuma-unlock/main/yopu-unlock.user.js)（部分地区可能无法访问）
-   - [CDN 加速安装](https://cdn.jsdelivr.net/gh/poinghy/yopuma-unlock/yopu-unlock.user.js)（推荐）
+   - [Greasy Fork 安装](https://update.greasyfork.org/scripts/584529/%E6%9C%89%E8%B0%B1%E4%B9%88%E6%92%AD%E6%94%BE%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4%20%28%E7%A8%B3%E5%AE%9A%E7%89%88%29.user.js)
 ## 功能
 - 自动拦截 15 秒限制定时器
 - 阻止自动暂停
