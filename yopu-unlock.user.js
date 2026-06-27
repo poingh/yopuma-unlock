@@ -4,11 +4,12 @@
 // @version      2.3
 // @description  解除yopu.co乐谱15秒播放限制
 // @author       poingh
+// @license      MIT
 // @match        https://yopu.co/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL  https://cdn.jsdelivr.net/gh/poingh/yopuma-unlock/yopu-unlock.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/poingh/yopuma-unlock/yopu-unlock.user.js
+// @downloadURL https://update.greasyfork.org/scripts/584529/%E6%9C%89%E8%B0%B1%E4%B9%88%E6%92%AD%E6%94%BE%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4%20%28%E7%A8%B3%E5%AE%9A%E7%89%88%29.user.js
+// @updateURL https://update.greasyfork.org/scripts/584529/%E6%9C%89%E8%B0%B1%E4%B9%88%E6%92%AD%E6%94%BE%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4%20%28%E7%A8%B3%E5%AE%9A%E7%89%88%29.meta.js
 // ==/UserScript==
 
 (function() {
