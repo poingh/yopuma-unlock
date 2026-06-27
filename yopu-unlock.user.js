@@ -7,8 +7,8 @@
 // @match        https://yopu.co/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL  https://cdn.jsdelivr.net/gh/poinghy/yopuma-unlock/yopu-unlock.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/poinghy/yopuma-unlock/yopu-unlock.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/poingh/yopuma-unlock/yopu-unlock.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/poingh/yopuma-unlock/yopu-unlock.user.js
 // ==/UserScript==
 
 (function() {
